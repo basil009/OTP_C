@@ -1,2 +1,1 @@
-One time pad generator implemented in C using sockets.
-The two files, 
+C: One time pad generator encryptor and decryptoes, communicates using sockets.
