@@ -1,1 +1,1 @@
-C: One time pad generator encryptor and decryptoes, communicates using sockets.
+C: One time pad generator (OTP) encryptor and decryptor. Communicates using sockets.
