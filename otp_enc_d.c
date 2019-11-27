@@ -10,7 +10,7 @@
 
 //One of the main operations of this program is to convert letter strings, to it's equavelent character numbers. 
 //For example, G(23), T(22), I(6), and so on.
-//Whe converting from "letter string" to "number string", the functions convertes from "THE RED GOOSE...." to "275427192739"
+//converting from "letter string" to "number string", the functions convertes from "THE RED GOOSE...." to "275427192739"
 
 //Prototype
 int * Reference(char * a_string); //Used to convert letter strings to numbers
