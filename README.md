@@ -1,1 +1,2 @@
-C: One time pad generator (OTP) encryptor and decryptor. Communicates files over the network through socket, and manages multiple connections using forked processes. 
+Netcat-like program that uses One-Time-Pad (OTP) to encrypt and decrypt exchanged text over the network. 
+Communicates using C sockets, and manages multiple connections using forked processes. 
