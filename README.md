@@ -1,1 +1,1 @@
-C: One time pad generator (OTP) encryptor and decryptor. Communicates files over the network through sockets.
+C: One time pad generator (OTP) encryptor and decryptor. Communicates files over the network through socket, and manages multiple connections using forked processes. 
